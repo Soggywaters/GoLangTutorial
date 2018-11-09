@@ -51,7 +51,7 @@ func main() {
 
 	//OR
 
-	//t := x //t will be type x
+	//t := x //t will be type x (type inference)
 
 	fmt.Println(dblShow("hello","dd"))
 	fmt.Println(addition(x, y))
