@@ -12,7 +12,7 @@ func index_handler(w http.ResponseWriter, r *http.Request) {
 }
 
 func about_handler(w http.ResponseWriter, r *http.Request) {
-	fmt.Fprintf(w, "About us!")
+	fmt.Fprintf(w, "About us!!")
 }
 
 func main() {
